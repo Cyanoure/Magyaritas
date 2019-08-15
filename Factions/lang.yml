@@ -103,7 +103,7 @@ COMMAND:
       &dsouth &cor &dwest&c.'
   COLEADER:
     CANDIDATES: 'Players you can promote: '
-    CLICKTOPROMOTE: 'Click to promote '
+    CLICKTOPROMOTE: 'Kattints az előléptetéshez '
     NOTMEMBER: '%1$s&c is not a member in your faction.'
     NOTADMIN: '&cYou are not the faction admin.'
     SELF: '&cThe target player musn''t be yourself.'
